@@ -1,6 +1,6 @@
 
 window.env = {
-    OPENAI_API_KEY: "your-secret-key"
+    OPENAI_API_KEY: "your-public-key"
 };
 
 const APIKEY = window?.env?.OPENAI_API_KEY
