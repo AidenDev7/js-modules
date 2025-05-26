@@ -1,4 +1,7 @@
-// fdf
+
+window.env = {
+    OPENAI_API_KEY: "your-secret-key"
+};
 
 const APIKEY = window?.env?.OPENAI_API_KEY
 
